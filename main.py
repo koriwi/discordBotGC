@@ -6,7 +6,7 @@ import answer
 
 
 client = discord.Client()
-client.login('kilian2798+bot@gmail.com', 'jnfcxuz7')
+client.login('kilian2798+bot@gmail.com', '')
 channel = discord.Channel()
 talk = None
 server = discord.Server()
